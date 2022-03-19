@@ -72,8 +72,7 @@ class Character:
 
     def describe(self):
         """ Print character description """
-        print(f"{self.name} is here!")
-        print(self.description)
+        print(f"{self.name} is here! - {self.description}")
 
     def talk(self):
         """ Character talks """
@@ -105,7 +104,7 @@ You cannot fend {self.name} off with the {fight_with}')
 
 class Friend(Character):
     """ Friend Character class """
-    def __init__(self, name, description=""):
+    def __init__(self, name, description="Your friend."):
         name = f"Friend {name}"
         super().__init__(name, description)
 
