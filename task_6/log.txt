@@ -1,0 +1,265 @@
+Kozelnytska street
+--------------------
+The Stryiska street is west
+Friend Student is here! - Your friend.
+The food item [borscht] is here - Borscht from Trapesna
+> take
+You put the borscht in your backpack
+
+
+Kozelnytska street
+--------------------
+The Stryiska street is west
+Friend Student is here! - Your friend.
+> talk
+[Friend Student says]: I can give you advice!
+[Friend Student says]: The advice is you should know more to pass SuperBoss!
+
+
+Kozelnytska street
+--------------------
+The Stryiska street is west
+> west
+
+
+Stryiska street
+--------------------
+The Ivana Franka street is north
+The Kozelnytska street is east
+The Ring road is south
+Enemy Lotr is here! - Rogue, robber. Facet
+The weapon item [gun] is here - A really good gun to protect yourself.
+> take
+You put the gun in your backpack
+
+
+Stryiska street
+--------------------
+The Ivana Franka street is north
+The Kozelnytska street is east
+The Ring road is south
+Enemy Lotr is here! - Rogue, robber. Facet
+> talk
+[Enemy Lotr says]: You won't pass if I am alive!
+
+
+Stryiska street
+--------------------
+The Ivana Franka street is north
+The Kozelnytska street is east
+The Ring road is south
+Enemy Lotr is here! - Rogue, robber. Facet
+> fight
+What will you fight with? You have ['borscht', 'gun']
+> gun
+You fend Enemy Lotr off with the gun
+Hooray, you won the fight!
+
+
+Stryiska street
+--------------------
+The Ivana Franka street is north
+The Kozelnytska street is east
+The Ring road is south
+> south
+
+
+Ring road
+--------------------
+The Stryiska street is west
+The Zelena street is east
+Super Enemy Batyar is here! - The man clings to all passers-by.
+The [bag] is here - Empty bag.
+> take
+You put the bag in your backpack
+
+
+Ring road
+--------------------
+The Stryiska street is west
+The Zelena street is east
+Super Enemy Batyar is here! - The man clings to all passers-by.
+> talk
+[Super Enemy Batyar says]: I bein' wise man, yo' man must to pass ma' test man and give me more knowledge man
+
+
+Ring road
+--------------------
+The Stryiska street is west
+The Zelena street is east
+Super Enemy Batyar is here! - The man clings to all passers-by.
+> east
+You should pass characters first to pass the street!
+
+
+Ring road
+--------------------
+The Stryiska street is west
+The Zelena street is east
+Super Enemy Batyar is here! - The man clings to all passers-by.
+> west
+
+
+Stryiska street
+--------------------
+The Ivana Franka street is north
+The Kozelnytska street is east
+The Ring road is south
+> north
+
+
+Ivana Franka street
+--------------------
+The Shevchenka Avenue is north
+The Stryiska street is south
+Enemy Zbuj is here! - Robber standing next to a pile of some goods.
+The [book] is here - Great book.
+> take
+You put the book in your backpack
+
+
+Ivana Franka street
+--------------------
+The Shevchenka Avenue is north
+The Stryiska street is south
+Enemy Zbuj is here! - Robber standing next to a pile of some goods.
+> talk
+[Enemy Zbuj says]: I need a bag to put all that inside. Do you have one?
+
+
+Ivana Franka street
+--------------------
+The Shevchenka Avenue is north
+The Stryiska street is south
+Enemy Zbuj is here! - Robber standing next to a pile of some goods.
+> fight
+What will you fight with? You have ['borscht', 'bag', 'book']
+> bag
+You fend Enemy Zbuj off with the bag
+Hooray, you won the fight!
+
+
+Ivana Franka street
+--------------------
+The Shevchenka Avenue is north
+The Stryiska street is south
+> south
+
+
+Stryiska street
+--------------------
+The Ivana Franka street is north
+The Kozelnytska street is east
+The Ring road is south
+> south
+
+
+Ring road
+--------------------
+The Stryiska street is west
+The Zelena street is east
+Super Enemy Batyar is here! - The man clings to all passers-by.
+> fight
+What will you fight with? You have ['borscht', 'book']
+> book
+That's not easy to fight me!
+Answer a question: What country ma' university UCU located??
+> Ukraine
+Correct! You can continue the fight!
+You fend Super Enemy Batyar off with the book
+Hooray, you won the fight!
+
+
+Ring road
+--------------------
+The Stryiska street is west
+The Zelena street is east
+> east
+
+
+Zelena street
+--------------------
+The Krakivska street is north
+The Ring road is west
+Enemy Cavalier is here! - Fat cavalier waiting for something.
+> talk
+[Enemy Cavalier says]: I am so hungry! You can fight me only with a use of huge portion of secret dish!
+
+
+Zelena street
+--------------------
+The Krakivska street is north
+The Ring road is west
+Enemy Cavalier is here! - Fat cavalier waiting for something.
+> fight
+What will you fight with? You have ['borscht']
+> borscht
+You fend Enemy Cavalier off with the borscht
+Hooray, you won the fight!
+
+
+Zelena street
+--------------------
+The Krakivska street is north
+The Ring road is west
+> north
+
+
+Krakivska street
+--------------------
+The Shevchenka Avenue is south
+Friend Robot is here! - Your friend.
+The [money] is here - Some coins on the floor.
+> take
+You put the money in your backpack
+
+
+Krakivska street
+--------------------
+The Shevchenka Avenue is south
+Friend Robot is here! - Your friend.
+> talk
+[Friend Robot says]: I can give you advice!
+[Friend Robot says]: The advice is Great! Find the way back and you will win!
+
+
+Krakivska street
+--------------------
+The Shevchenka Avenue is south
+> south
+
+
+Shevchenka Avenue
+--------------------
+The Krakivska street is north
+The Ivana Franka street is south
+Enemy Lajdak is here! - Lajdak is so lazy that only whispers a bit.
+> talk
+[Enemy Lajdak says]: I need money
+
+
+Shevchenka Avenue
+--------------------
+The Krakivska street is north
+The Ivana Franka street is south
+Enemy Lajdak is here! - Lajdak is so lazy that only whispers a bit.
+> fight
+What will you fight with? You have ['money']
+> money
+You fend Enemy Lajdak off with the money
+Hooray, you won the fight!
+
+
+Shevchenka Avenue
+--------------------
+The Krakivska street is north
+The Ivana Franka street is south
+> south
+
+
+Ivana Franka street
+--------------------
+The Shevchenka Avenue is north
+The Stryiska street is south
+> south
+Congratulations, you have won the game!
