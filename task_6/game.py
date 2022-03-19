@@ -178,5 +178,5 @@ class WeaponItem(Item):
 class FoodItem(Item):
     """ Food Item class """
     def describe(self):
-        """ Print weapon item description """
+        """ Print food item description """
         print(f"The food item [{self.name}] is here - {self.description}")
